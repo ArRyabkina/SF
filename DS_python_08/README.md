@@ -15,3 +15,21 @@
 ##используемые дополнительные библиотеки 
 * numpy
 
+_______________ENGLISH
+
+#The random_game.ipynb program
+
+##Task:
+* The computer guesses an integer from 1 to 100, and the program must guess it in less than 20 attempts
+
+##Algorithm:
+* The algorithm takes into account information about whether a random number is greater or less than the number we need.
+ * The first approach is to generate a random number to find the hidden number
+ * The second approach is the use of metrics "more" or "less"
+* In the third approach, the program solves the problem using binary search to find the hidden number. 
+
+##Work on the program
+My share of work on the program is the third approach
+
+##additional libraries used 
+* numpy
